@@ -8,18 +8,18 @@
 ## How to use 
 * Make sure the KeilMDK software has been installed, then open "74HC595.uvprojx" file you will see the whole project.
 
-![](\photos\pic3.jpg)
+![](https://github.com/JassyL/BNO080_RVC_Mode_STM32F401_Driver/blob/master/photos/pic3.jpg)
 
 * I use UART1 to connect the BNO080 moduel,  UART2 used to support printf, you mat need a USB2TTL moduel to attach UART2 pins.
 
 * **Confirm that your module has been set to UART-RVC mode**, otherwise you will not receive data.Detailed information can be referred to BNO080 datasheet(In the "doc" folder). For example, it's very esay to set RVC mode with this purple moduel, connect two pads of PS0,that's all I need to do.
-![](\photos\pic4.jpg)
+![](https://github.com/JassyL/BNO080_RVC_Mode_STM32F401_Driver/blob/master/photos/pic4.jpg)
 
 * Open any serial debugging assistant, set baud rate 115200.
 
-![](\photos\pic2.jpg)
+![](https://github.com/JassyL/BNO080_RVC_Mode_STM32F401_Driver/blob/master/photos/pic2.jpg)
 
-![](\photos\pic1.jpg)
+![](https://github.com/JassyL/BNO080_RVC_Mode_STM32F401_Driver/blob/master/photos/pic1.jpg)
 
 ## License
 * Anti 996 License Version 1.0
