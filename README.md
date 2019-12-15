@@ -6,7 +6,7 @@
 * Driver source file is in the "BNO080_RVC_Driver" folder.(Yep! Very simple actually)
 
 ## How to use 
-* Make sure the KeilMDK software has been installed, then open "74HC595.uvprojx" file you will see the whole project.
+* Make sure the KeilMDK software has been installed, then open "BNO080_RVC.uvprojx" file you will see the whole project.
 
 ![](https://github.com/JassyL/BNO080_RVC_Mode_STM32F401_Driver/blob/master/photos/pic3.jpg)
 
